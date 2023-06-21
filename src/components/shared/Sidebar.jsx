@@ -5,6 +5,7 @@ import { HiOutlineMail, HiOutlineLogout } from "react-icons/hi";
 
 export const Sidebar = (props) => {
   const { showMenu } = props;
+
   return (
     <>
       <div

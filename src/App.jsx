@@ -12,7 +12,7 @@ import {
 
 function App() {
   const [showMenu, setShowMenu] = useState(false);
-  const [showOrder, setShowOrder] = useState(false);
+  // const [showOrder, setShowOrder] = useState(false);
 
   const toggleMenu = () => {
     setShowMenu(!showMenu);
